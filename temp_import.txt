@@ -1,0 +1,1 @@
+import sggLogo from '../assets/SGGlogo.svg'
